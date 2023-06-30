@@ -1,0 +1,96 @@
+{
+  "restaurants": [
+    {
+      "name": "KFC restaurant",
+      "email": "kfc@test.com",
+      "address": "Highstreet Baner",
+      "id": 1
+    },
+    {
+      "name": "Om Sweets",
+      "email": "omsweets@test.com",
+      "address": "Baner",
+      "id": 2
+    },
+    {
+      "name": "McDonalds",
+      "email": "mcdonalds@test.com",
+      "address": "Pune",
+      "id": 3
+    },
+    {
+      "name": "Dominos",
+      "email": "dominos@test.com",
+      "address": "Mahalunge",
+      "id": 4
+    },
+    {
+      "name": "3M",
+      "address": "Baner",
+      "email": "3m@test.com",
+      "id": 5
+    },
+    {
+      "name": "Burger King",
+      "address": "Wakad",
+      "email": "burgerking@test.com",
+      "id": 6
+    },
+    {
+      "name": "Haldiram's",
+      "address": "Pimpri",
+      "email": "haldiram@test.com",
+      "id": 7
+    },
+    {
+      "name": "Subway",
+      "email": "subway@test.com",
+      "address": "HighStreet Baner",
+      "id": 8
+    },
+    {
+      "name": "Old Mansion",
+      "email": "oldmansion@gmail.com",
+      "address": "Baner",
+      "id": 9
+    },
+    {
+      "name": "Indian kitchen Culture",
+      "email": "ikculture@test.com",
+      "address": "Baner Pune",
+      "id": 10
+    },
+    {
+      "name": "Old mansion",
+      "email": "om@test.com",
+      "address": "Pune",
+      "id": 13
+    }
+  ],
+  "users": [
+    {
+      "name": "rishabh",
+      "email": "rishabh@test.com",
+      "password": "123",
+      "id": 1
+    },
+    {
+      "name": "Test",
+      "email": "test@test.com",
+      "password": "12344",
+      "id": 2
+    },
+    {
+      "name": "test",
+      "email": "test@gmail.com",
+      "password": "test",
+      "id": 3
+    },
+    {
+      "name": "sample",
+      "email": "sample@test.com",
+      "password": "12345",
+      "id": 4
+    }
+  ]
+}
